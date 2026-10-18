@@ -45,3 +45,12 @@ Trace a sample row through parsing, analysis, cleaning and export. Add column-le
 Upload these files to a repository. In Settings → Pages, deploy from the `main` branch and root folder.
 
 MIT licensed; see LICENSE.
+
+## Project credit
+
+Created for and maintained by **Mujammil Murtaza Shaik** — [GitHub](https://github.com/knowmuzammil) · [LinkedIn](https://www.linkedin.com/in/mujammil-shaik).
+
+MBA with Merit, University of Leeds, 2024. This portfolio explores practical tools for business workflows, data quality and automation. The initial code was developed with AI assistance.
+
+Copyright (c) 2026 Mujammil Murtaza Shaik. When reusing this code, retain the copyright and MIT license notice as required by the license. Linking back to this repository is appreciated.
+
